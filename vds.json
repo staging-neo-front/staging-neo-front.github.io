@@ -1,0 +1,136 @@
+{
+  "default": [
+    {
+      "id": 1,
+      "name": "X1",
+      "mPrice": 2.49,
+      "hPrice": 0.004,
+      "vcpu": 1,
+      "ram": 2,
+      "ssd": 20,
+      "traffic": 20
+    },
+    {
+      "id": 2,
+      "name": "X2",
+      "mPrice": 3.49,
+      "hPrice": 0.006,
+      "vcpu": 2,
+      "ram": 2,
+      "ssd": 40,
+      "traffic": 20
+    },
+    {
+      "id": 3,
+      "name": "X2",
+      "mPrice": 4.9,
+      "hPrice": 0.008,
+      "vcpu": 2,
+      "ram": 4,
+      "ssd": 40,
+      "traffic": 20
+    },
+    {
+      "id": 4,
+      "name": "X2",
+      "mPrice": 6.9,
+      "hPrice": 0.011,
+      "vcpu": 3,
+      "ram": 4,
+      "ssd": 80,
+      "traffic": 20
+    },
+    {
+      "id": 5,
+      "name": "X2",
+      "mPrice": 8.9,
+      "hPrice": 0.014,
+      "vcpu": 2,
+      "ram": 8,
+      "ssd": 80,
+      "traffic": 20
+    },
+    {
+      "id": 6,
+      "name": "X2",
+      "mPrice": 12.4,
+      "hPrice": 0.02,
+      "vcpu": 4,
+      "ram": 8,
+      "ssd": 160,
+      "traffic": 20
+    },
+    {
+      "id": 7,
+      "name": "X2",
+      "mPrice": 15.9,
+      "hPrice": 0.026,
+      "vcpu": 4,
+      "ram": 16,
+      "ssd": 160,
+      "traffic": 20
+    },
+    {
+      "id": 8,
+      "name": "X2",
+      "mPrice": 22.9,
+      "hPrice": 0.038,
+      "vcpu": 8,
+      "ram": 16,
+      "ssd": 240,
+      "traffic": 20
+    },
+    {
+      "id": 9,
+      "name": "X2",
+      "mPrice": 49.9,
+      "hPrice": 0.08,
+      "vcpu": 16,
+      "ram": 32,
+      "ssd": 360,
+      "traffic": 20
+    }
+  ],
+  "dedicated": [
+    {
+      "id": 1,
+      "name": "N1",
+      "mPrice": 19.5,
+      "hPrice": 0.029,
+      "vcpu": 2,
+      "ram": 8,
+      "ssd": 240,
+      "traffic": 10
+    },
+    {
+      "id": 2,
+      "name": "N2",
+      "mPrice": 36.5,
+      "hPrice": 0.059,
+      "vcpu": 4,
+      "ram": 16,
+      "ssd": 480,
+      "traffic": 20
+    },
+    {
+      "id": 3,
+      "name": "N3",
+      "mPrice": 69.5,
+      "hPrice": 0.099,
+      "vcpu": 8,
+      "ram": 32,
+      "ssd": 960,
+      "traffic": 20
+    },
+    {
+      "id": 4,
+      "name": "N4",
+      "mPrice": 139.5,
+      "hPrice": 0.199,
+      "vcpu": 16,
+      "ram": 64,
+      "ssd": 1920,
+      "traffic": 20
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "N1": {
+    "names": [
+      "Neohost",
+      "Hetzner (Dedicated)",
+      "OVH",
+      "Namecheap",
+      "Godaddy (High RAM)",
+      "Amazon",
+      "Ionos (RAM optimized)",
+      "Google (Standard machine)",
+      "DO (General Purpose Droplets)",
+      "Azure (Compute optimized)"
+    ],
+    "links": [
+      "",
+      "https://www.hetzner.com/cloud",
+      "https://www.ovhcloud.com/en/public-cloud/prices/#419",
+      "https://www.namecheap.com/hosting/purchase/hosting-customization/?product=pulsar&addons=operating-system%3Doperating-system-centos%3Boperating-system-version%3Dcentos-8-blank-64bit%3Bweb-panel%3Dno%20cpanel%3Binterworx%3Dnone%3Bsoftaculous%3Dno%20script%20installer%3Bserver-management-plan%3Dself%C2%ADmanaged%3Bvps-ram%3Dvps-ram-5gb%3Bvps-disk-space%3Dvps-disk-space-40gb%3Bweb-panel%3Dnone&duration=1&durationtype=month",
+      "https://www.godaddy.com/hosting/vps-hosting#plans",
+      "https://aws.amazon.com/lightsail/pricing/?opdp1=pricing",
+      "https://www.ionos.com/cloud/cloud-servers",
+      "https://cloud.google.com/compute/all-pricing",
+      "https://www.digitalocean.com/pricing/",
+      "https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/#pricing"
+    ],
+    "price_m": [
+      "19.50",
+      "23.62",
+      "26.40",
+      "29.88",
+      "29.99",
+      "40.00",
+      "40.00",
+      "48.91",
+      "60.00",
+      "61.75"
+    ],
+    "price_h": [
+      "0.029",
+      "0.035",
+      "0.073",
+      "-",
+      "-",
+      "0.067",
+      "0.055",
+      "0.067",
+      "0.089",
+      "0.084"
+    ],
+    "vcpu": ["2", "2", "2", "2", "2", "2", "2", "2", "2", "2"],
+    "ram": ["8", "8", "7", "5", "8", "8", "8", "8", "8", "4"],
+    "disk": [
+      "240 NVME",
+      "80 SSD",
+      "50 SSD",
+      "40 SSD",
+      "100 SSD",
+      "160 SSD",
+      "80 SSD",
+      "-",
+      "25 SSD",
+      "-"
+    ]
+  },
+  "N2": {
+    "names": ["", "", "", "", "", "", "", "", "", ""],
+    "links": ["", "", "", "", "", "", "", "", "", ""],
+    "price_m": [
+      "36.50",
+      "41.42",
+      "50.40",
+      "45.88",
+      "49.99",
+      "80.00",
+      "80.00",
+      "97.83",
+      "120.00",
+      "123.37"
+    ],
+    "price_h": [
+      "0.059",
+      "0.071",
+      "0.139",
+      "-",
+      "-",
+      "0.134",
+      "0.111",
+      "0.134",
+      "0.178",
+      "0.169"
+    ],
+    "vcpu": ["4", "4", "4", "4", "4", "4", "4", "4", "4", "4"],
+    "ram": ["16", "16", "15", "9", "16", "16", "16", "16", "16", "8"],
+    "disk": [
+      "480 NVME",
+      "160 SSD",
+      "100 SSD",
+      "160 SSD",
+      "200 SSD",
+      "320 SSD",
+      "120 SSD",
+      "-",
+      "50 SSD",
+      "-"
+    ]
+  },
+  "N3": {
+    "names": ["", "", "", "", "", "", "", "", "", ""],
+    "links": ["", "", "", "", "", "", "", "", "", ""],
+    "price_m": [
+      "69.50",
+      "82.97",
+      "102.00",
+      "-",
+      "99.99",
+      "160.00",
+      "160.00",
+      "195.66",
+      "240.00",
+      "246.74"
+    ],
+    "price_h": [
+      "0.099",
+      "0.140",
+      "0.283",
+      "-",
+      "-",
+      "0.268",
+      "0.222",
+      "0.268",
+      "0.357",
+      "0.338"
+    ],
+    "vcpu": ["8", "8", "8", "-", "8", "8", "8", "8", "8", "8"],
+    "ram": ["32", "32", "30", "-", "32", "32", "32", "32", "32", "16"],
+    "disk": [
+      "960 NVME",
+      "240 SSD",
+      "200 SSD",
+      "-",
+      "400 SSD",
+      "640 SSD",
+      "160 SSD",
+      "-",
+      "100 SSD",
+      "-"
+    ]
+  },
+
+  "N4": {
+    "names": ["", "", "", "", "", "", "Ionos", "", "", ""],
+    "links": ["", "", "", "", "", "", "", "", "", ""],
+    "price_m": [
+      "139.50",
+      "166.05",
+      "198.00",
+      "-",
+      "-",
+      "-",
+      "240.00",
+      "391.32",
+      "480.00",
+      "494.21"
+    ],
+    "price_h": [
+      "0.199",
+      "0.280",
+      "0.550",
+      "-",
+      "-",
+      "0.616",
+      "0.333",
+      "0.536",
+      "0.714",
+      "0.677"
+    ],
+    "vcpu": ["16", "16", "16", "-", "-", "16", "16", "16", "16", "16"],
+    "ram": ["64", "64", "60", "-", "-", "64", "32", "64", "64", "32"],
+    "disk": [
+      "1920 NVME",
+      "360 SSD",
+      "400 SSD",
+      "-",
+      "-",
+      "-",
+      "360 SSD",
+      "-",
+      "200 SSD",
+      "-"
+    ]
+  }
+}
